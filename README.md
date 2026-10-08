@@ -117,4 +117,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-Made with ❤️ by [Shalini](https://github.com/shalinims2806)
+Made with ❤️ by [Vishnu](https://github.com/vishnuprasath13-cmd)
